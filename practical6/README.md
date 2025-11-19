@@ -3,7 +3,7 @@
 This folder contains Practical 6 codes.
   
 ## Compile:
-* While in Practical06 directory 
+* While in Practical06 directory:  
 gcc -o matmultc matmult.c
 
 * While in Step6 sub-directory: 
